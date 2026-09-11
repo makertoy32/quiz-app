@@ -1,0 +1,18 @@
+@import "tailwindcss";
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+button{
+    transition: all .3s ease-in-out;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+button:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    /* transform: scale(1.1); */
+    cursor: pointer;
+    /* background-color: white; */
+    color: black;
+}
